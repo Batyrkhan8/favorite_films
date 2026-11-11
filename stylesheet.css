@@ -1,0 +1,155 @@
+h1 {
+  text-align: center;
+  font-size: 36px;
+  color: darkblue;
+}
+
+.poster {
+  width: 300px;
+  height: auto;
+  border: 2px solid darkblue;
+}
+
+h2 {
+  text-align: center;
+  color: darkblue;
+  font-size: 24px;
+}
+
+.description {
+  font-size: 18px;
+  background-color: white;
+  padding: 20px;
+}
+
+.second_h2 {
+  text-align: center;
+  font-size: 36px;
+  color: darkblue;
+}
+
+ul {
+  font-size: 18px;
+}
+
+.third_h2 {
+  text-align: center;
+  font-size: 36px;
+  color: darkblue;
+}
+
+.opinion {
+  font-size: 18px;
+  color: darkblue;
+}
+
+a {
+  color: blue;
+  font-size: 18px;
+}
+
+.spaidar-man {
+  color: darkblue;
+  font-size: 36px;
+  text-align: center;
+}
+
+.spidar_img {
+  width: 300px;
+  height: auto;
+  border: 2px solid darkblue;
+}
+
+.about_spidar {
+  text-align: center;
+  font-size: 24px;
+  color: darkblue;
+}
+
+.description_spidar {
+  background-color: white;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.heroes_spidar {
+  text-align: center;
+  font-size: 24px;
+  color: darkblue;
+}
+
+.heroes_spidar2 {
+  font-size: 18px;
+}
+
+.opinion_spaidar {
+  text-align: center;
+  font-size: 24px;
+  color: darkblue;
+}
+
+.opinion2 {
+  font-size: 18px;
+  color: darkblue;
+}
+
+.spidy {
+  color: blue;
+  font-size: 18px;
+}
+
+.Oddysey {
+  color: darkblue;
+  font-size: 36px;
+  text-align: center;
+}
+
+.oddysey_img {
+  width: 300px;
+  height: auto;
+  border: 2px solid darkblue;
+}
+
+.about_oddysey {
+  text-align: center;
+  font-size: 24px;
+  color: darkblue;
+}
+
+.description_oddysey {
+  background-color: white;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.heroes_oddysey {
+  text-align: center;
+  font-size: 24px;
+  color: darkblue;
+}
+
+.opinion_oddysey {
+  font-size: 18px;
+}
+
+.opinion3 {
+  text-align: center;
+  font-size: 24px;
+  color: darkblue;
+}
+
+.opinion2 {
+  font-size: 18px;
+  color: darkblue;
+}
+
+.spidy {
+  color: blue;
+  font-size: 18px;
+}
+
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 20px;
+}
